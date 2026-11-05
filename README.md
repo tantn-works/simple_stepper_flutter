@@ -45,4 +45,4 @@ SimpleStepperFlutter(
 ```
 ## Authors
 
-- [@justaboy-dev](https://www.github.com/justaboy-dev)
+- [@justaboy-dev](https://www.github.com/tantn-works)
